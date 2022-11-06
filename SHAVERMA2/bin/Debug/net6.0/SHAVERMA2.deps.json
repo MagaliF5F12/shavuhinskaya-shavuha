@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SHAVERMA2/1.0.0": {
+        "runtime": {
+          "SHAVERMA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SHAVERMA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

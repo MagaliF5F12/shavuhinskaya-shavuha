@@ -1,0 +1,15 @@
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\bin\Debug\net6.0\SHAVERMA2.exe
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\bin\Debug\net6.0\SHAVERMA2.deps.json
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\bin\Debug\net6.0\SHAVERMA2.runtimeconfig.json
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\bin\Debug\net6.0\SHAVERMA2.dll
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\bin\Debug\net6.0\SHAVERMA2.pdb
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.csproj.AssemblyReference.cache
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.AssemblyInfoInputs.cache
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.AssemblyInfo.cs
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.csproj.CoreCompileInputs.cache
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.dll
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\refint\SHAVERMA2.dll
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.pdb
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\SHAVERMA2.genruntimeconfig.cache
+C:\Users\magal\source\repos\SHAVERMA2\SHAVERMA2\obj\Debug\net6.0\ref\SHAVERMA2.dll
